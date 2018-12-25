@@ -1,0 +1,5 @@
+git add webpage.html
+touch webpage.html
+echo "<!DOCTYPE html>" > webpage.html
+echo "<html" >> webpage.html
+echo "<head>" >> webpage.html
